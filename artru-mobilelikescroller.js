@@ -1,4 +1,4 @@
-(function()
+(function(){
 class MobileLikeScroller {
     constructor(elem, direction = 'xy') {
         this.previousTouchX = [0, 0, 0];
